@@ -84,10 +84,14 @@ s.send("acknowledgement recived from the server".encode())
 ## Output
 
 ## Server
-<img width="1845" height="173" alt="exp-1 server" src="https://github.com/user-attachments/assets/c02be50f-821c-4264-b49d-1861ebc5f463" />
+
+<img width="779" height="269" alt="image" src="https://github.com/user-attachments/assets/c0d76300-5b55-40bb-b94d-4bfd4545f987" />
+
+
 
 ## Client
-<img width="1845" height="173" alt="cn-client" src="https://github.com/user-attachments/assets/67e8045f-4ecb-4ca5-a207-a094f8031140" />
+<img width="760" height="340" alt="image" src="https://github.com/user-attachments/assets/50529c84-d3ae-4bd5-980d-67852444db9e" />
+
 
 
 
